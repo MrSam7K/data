@@ -1,11 +1,11 @@
     {
         "TEXT": {
-            "id": "Text",
+            "id": "String",
             "color": "§b"
         },
         "COMPONENT": {
           "id": "Styled Text",
-          "color": "§x§a§a§f§f§a§a"
+          "color": "§x§7§f§d§4§2§a"
         },
         "NUMBER": {
             "id": "Number",
