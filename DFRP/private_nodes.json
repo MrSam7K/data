@@ -1,0 +1,16 @@
+[
+  { "id": 1, "uuid": "80f1352f07554f29af0feef9d779a118", "displayName": "Experiment" },
+  { "id": 2, "uuid": "467219bbc85649b3ad74ca661c3d8a4f", "displayName": "Nebula" },
+  { "id": 5, "uuid": "94cc10d610f044d9b060873193100bc1", "displayName": "DFH" },
+  { "id": 6, "uuid": "bf318f3ee26c4f4695a4a95e28d3629a", "displayName": "Copper Games" },
+  { "id": 9, "uuid": "9e30b9f98a25488b837c1b297ff34fee", "displayName": "Games.ZIP" },
+  { "id": 14, "uuid": "d862023eceef4ac4b12ec5da09ec2cf3", "displayName": "flopsuh" },
+  { "id": 15, "uuid": "066869cb2f9c41d29f4328b0935366e3", "displayName": "Shelter" },
+  { "id": 16, "uuid": "787dbff5bfcb40049a2db8323f693df5", "displayName": "Facility" },
+  { "id": 17, "uuid": "2c00dae97f014f82bcce9326c3a470aa", "displayName": "Echo" },
+  { "id": 18, "uuid": "efc8077992fa43f3870fd1ffea794101", "displayName": "Power Plant" },
+  { "id": 21, "uuid": "3499b13a58be464db37b71fd4a103fcf", "displayName": "Finn's Hangout" },
+  { "id": 23, "uuid": "4c4845918dd2435aab65d9c037943175", "displayName": "Metro" },
+  { "id": 24, "uuid": "9fca811696bf4007ba22c626fe7679af", "displayName": "null" },
+  { "id": 25, "uuid": "d862023eceef4ac4b12ec5da09ec2cf3", "displayName": "flopsuh2" }
+]
